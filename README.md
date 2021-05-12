@@ -21,4 +21,4 @@
   
 ## Installation 
 
-Install my-project from [Uptodown](https://salatime.hammiddi.me/)
+Install SalaTime from [Uptodown](https://salatime.hammiddi.me/)
