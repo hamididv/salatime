@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-<img src="https://i.postimg.cc/Sx0X6thn/img1.png" width="250">      <img src="https://i.postimg.cc/cHKgMqr8/img2.png" width="250">       <img src="https://i.postimg.cc/jdT2CnQf/img3.png" width="250">       <img src="https://i.postimg.cc/zB3PDzpM/screenshot-2021-05-12-21-30-41-337.png" width="250">
+<img src="https://i.postimg.cc/Sx0X6thn/img1.png" width="210">      <img src="https://i.postimg.cc/cHKgMqr8/img2.png" width="210">       <img src="https://i.postimg.cc/jdT2CnQf/img3.png" width="210">       <img src="https://i.postimg.cc/d35129GD/img4.png" width="210">
 
 ## Badges
 
