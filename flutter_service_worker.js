@@ -7,14 +7,14 @@ const RESOURCES = {
 "manifest.json": "71592695a98e67652a98fe6a30809651",
 "icons/Icon-512.png": "20dc17e56baf3c9455730992f24188d1",
 "icons/Icon-192.png": "20dc17e56baf3c9455730992f24188d1",
-"index.html": "569ebb5201173512bb433dc0307baf8f",
-"/": "569ebb5201173512bb433dc0307baf8f",
+"index.html": "6ac25f63182eb7544c2ddb168118373a",
+"/": "6ac25f63182eb7544c2ddb168118373a",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/NOTICES": "d8aefeab0ff33d33b07a152c165df757",
+"assets/NOTICES": "174bdf91e8376d38074232244abb44e5",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"main.dart.js": "1152993bb126e99629d91b7d0e1eecca",
+"main.dart.js": "bf9b77c85c6c7129b3b7dbe1993b7dd5",
 "version.json": "de879f54b47ce98fe9fe3d4a3b7226f9"
 };
 
