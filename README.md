@@ -15,7 +15,7 @@
   
 ## Tech Stack
 
-**Client:** Flutter
+**Client:** [Flutter](https://github.com/flutter/flutter)
 
 **Server:** [salat-dz](https://github.com/mohammedi-haroune/salat-dz)
   
