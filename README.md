@@ -2,19 +2,17 @@
 
 تطبيق لمعرفة مواقيت الصلات في كل ولايات الجزائر
 
-## Screenshot
-
-<img src="https://i.postimg.cc/Sx0X6thn/img1.png" width="230">      <img src="https://i.postimg.cc/cHKgMqr8/img2.png" width="230">       <img src="https://i.postimg.cc/jdT2CnQf/img3.png" width="230">       <img src="https://i.postimg.cc/d35129GD/img4.png" width="230">
-
 ## Badges
 
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-
-[![Platforms](https://img.shields.io/badge/Platforms-Android%20IOS%20WEB-blue)](https://hammiddi.me/)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)    [![Platforms](https://img.shields.io/badge/Platforms-Android%20IOS%20WEB-blue)](https://hammiddi.me/)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Screenshot
+
+<img src="https://i.postimg.cc/Sx0X6thn/img1.png" width="230">      <img src="https://i.postimg.cc/cHKgMqr8/img2.png" width="230">       <img src="https://i.postimg.cc/jdT2CnQf/img3.png" width="230">       <img src="https://i.postimg.cc/d35129GD/img4.png" width="230">
 
   
 ## Tech Stack
