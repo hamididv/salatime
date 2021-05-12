@@ -4,7 +4,9 @@
 
 ## Screenshot
 
-
+![Screenshot](/screenshot/img1.png)
+![Screenshot](/screenshot/img2.png)
+![Screenshot](/screenshot/img3.png)
 
 ## Badges
 
@@ -19,10 +21,10 @@
   
 ## Tech Stack
 
-**Client:** ![Flutter](https://github.com/flutter/flutter)
+**Client:** [Flutter](https://github.com/flutter/flutter)
 
-**Server:** ![salat-dz](https://github.com/mohammedi-haroune/salat-dz)
+**Server:** [salat-dz](https://github.com/mohammedi-haroune/salat-dz)
   
 ## Installation 
 
-Install SalaTime from ![Uptodown](https://salatime.hammiddi.me/)
+Install SalaTime from [Uptodown](https://salatime.hammiddi.me/)
