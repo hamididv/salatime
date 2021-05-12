@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-<img src="https://i.postimg.cc/Sx0X6thn/img1.png" width="150">   <img src="https://i.postimg.cc/Sx0X6thn/img2.png" width="150">   <img src="https://i.postimg.cc/Sx0X6thn/img3.png" width="150">
+<img src="https://i.postimg.cc/Sx0X6thn/img1.png" width="250">      <img src="https://i.postimg.cc/Sx0X6thn/img2.png" width="250">       <img src="https://i.postimg.cc/Sx0X6thn/img3.png" width="250">
 
 ## Badges
 
