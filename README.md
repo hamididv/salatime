@@ -4,9 +4,9 @@
 
 ## Screenshot
 
-![Screenshot](https://i.postimg.cc/Sx0X6thn/img1.png)
-![Screenshot](https://i.postimg.cc/cHKgMqr8/img2.png)
-![Screenshot](https://i.postimg.cc/jdT2CnQf/img3.png)
+![Screenshot](https://i.postimg.cc/Sx0X6thn/img1.png | width=100)
+![Screenshot](https://i.postimg.cc/cHKgMqr8/img2.png | width=100)
+![Screenshot](https://i.postimg.cc/jdT2CnQf/img3.png | width=100)
 
 ## Badges
 
